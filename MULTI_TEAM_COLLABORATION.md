@@ -139,10 +139,3 @@ New Team Joins
 
 Grant the minimum access required to perform the work. Protect the collaboration branch with mandatory PR reviews from the core team. Never grant production access until the partnership is proven stable across lower environments.
 
----
-
-## Related Documents
-
-- [`docs/ARCHITECTURE.md`](ARCHITECTURE.md) — Pipeline design and stage flow
-- [`docs/SECURITY.md`](SECURITY.md) — Secret management and access control strategy
-- [`docs/BRANCHING.md`](BRANCHING.md) — Git branching model and PR rules
